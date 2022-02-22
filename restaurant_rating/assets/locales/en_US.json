@@ -1,0 +1,44 @@
+{
+    "buttons": {
+        "login": "Login",
+        "sign_in": "Sign-in",
+        "logout": "Logout",
+        "remember": "Forgot password?"
+    },
+    "hint_texts": {
+        "login_email": "Enter your email",
+        "login_username": "Enter your username",
+        "login_password": "Enter your password"
+    },
+    "home_texts": {
+        "bottom_bar_1": "Home",
+        "bottom_bar_2": "QR",
+        "bottom_bar_3": "My account"
+    },
+    "error_texts": {
+        "error": "Error",
+        "validate_username": "Please enter a valid username.",
+        "validate_email": "Please enter a valid email address.",
+        "validate_password": "Please enter a valid password.",
+        "validate_all": "Please complete the information.",
+        "nodata": "A comment has yet been made.",
+        "nodataimage": "A picture is yet added yet.",
+        "unvalid": "Username or password is incorrect",
+        "banned": "Your account has been blocked.",
+        "unknown": "An unknown error has occurred."
+    },
+    "label_texts": {
+        "scan": "Scan a code",
+        "comment": "Comments",
+        "rating": "Rating",
+        "taptoadd": "Tap to add",
+        "restoran_name": "Enter restaurant name",
+        "restoran_description": "Enter restaurant description",
+        "you_comment": "Your comment...",
+        "added": "Added",
+        "send": "Send",
+        "add": "Add restaurant",
+        "add1": "Add",
+        "later": "Will be shared after confirmed."
+    }
+}

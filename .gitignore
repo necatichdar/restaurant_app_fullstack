@@ -1,0 +1,53 @@
+restaurant_api/node_modules
+restaurant_api/dist
+restaurant_api/yarn.lock
+restaurant_api/.env
+restaurant_api/package-lock.json
+
+# Miscellaneous
+restaurant_rating/*.class
+restaurant_rating/*.log
+restaurant_rating/*.pyc
+restaurant_rating/*.swp
+restaurant_rating/.DS_Store
+restaurant_rating/.atom/
+restaurant_rating/.buildlog/
+restaurant_rating/.history
+restaurant_rating/.svn/
+
+# IntelliJ related
+restaurant_rating/*.iml
+restaurant_rating/*.ipr
+restaurant_rating/*.iws
+restaurant_rating/.idea/
+
+# The .vscode folder contains launch configuration and tasks you configure in
+# VS Code which you may wish to be included in version control, so this line
+# is commented out by default.
+#.vscode/
+
+# Flutter/Dart/Pub related
+restaurant_rating/**/doc/api/
+restaurant_rating/**/ios/Flutter/.last_build_id
+restaurant_rating/.dart_tool/
+restaurant_rating/.flutter-plugins
+restaurant_rating/.flutter-plugins-dependencies
+restaurant_rating/.packages
+restaurant_rating/.pub-cache/
+restaurant_rating/.pub/
+restaurant_rating//build/
+
+# Web related
+restaurant_rating/lib/generated_plugin_registrant.dart
+
+# Symbolication related
+restaurant_rating/app.*.symbols
+
+# Obfuscation related
+restaurant_rating/app.*.map.json
+
+# Exceptions to above rules.
+restaurant_rating/!/packages/flutter_tools/test/data/dart_dependencies_test/**/.packages
+
+# google-services
+restaurant_rating/android/app/google-services.json

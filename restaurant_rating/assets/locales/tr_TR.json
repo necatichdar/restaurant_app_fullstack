@@ -1,0 +1,44 @@
+{
+    "buttons": {
+        "login": "Giriş yap",
+        "sign_in": "Kayıt ol",
+        "logout": "Çıkış Yap",
+        "remember": "Parolanızı mı unuttunuz?"
+    },
+    "hint_texts": {
+        "login_email": "E-postanızı giriniz",
+        "login_username": "Kullanıcı adını giriniz",
+        "login_password": "Şifrenizi girin"
+    },
+    "home_texts": {
+        "bottom_bar_1": "Anasayfa",
+        "bottom_bar_2": "QR",
+        "bottom_bar_3": "Hesabım"
+    },
+    "error_texts": {
+        "error": "Hata",
+        "validate_username": "Lütfen geçerli bir kullanıcı adı giriniz.",
+        "validate_email": "Lütfen geçerli bir mail adresi giriniz.",
+        "validate_password": "Lütfen geçerli bir şifre giriniz.",
+        "validate_all": "Lütfen bilgileri doldurunuz.",
+        "nodata": "Henüz bir yorum yapılamıştır.",
+        "nodataimage": "Henüz bir resim eklenmemiştir.",
+        "unvalid": "Kullanıcı adı veya şifre yanlış",
+        "banned": "Hesabınız engellendi.",
+        "unknown": "Bilinmeyen bir hata oluştu."
+    },
+    "label_texts": {
+        "scan": "Kodu tara",
+        "comment": "Yorumlar",
+        "rating": "Puan",
+        "taptoadd": "Eklemek için dokunun",
+        "restoran_name": "Restoran adını girin",
+        "restoran_description": "Restoran Tanımına Girin",
+        "you_comment": "Senin yorumun...",
+        "added": "Eklendi",
+        "send": "Gönder",
+        "add": "Restoran ekle",
+        "add1": "Ekle",
+        "later": "Onaylandıktan sonra paylaşılacaktır."
+    }
+}
